@@ -26,4 +26,5 @@ class MobileError extends StatelessWidget {
       ],
     );
   }
+  
 }
